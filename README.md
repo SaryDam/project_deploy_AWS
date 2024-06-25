@@ -9,6 +9,10 @@ pour lancer le script launch.sh il suffit d'effectuer cette commande :
 ```sh
 ./launch.sh
 ```
+
+ce script permet de lancer l'application dans un docker, suivi de docker swarm 
+si necessaire il est possible de lancer que les fichiers exe qui sont dans chaque repertoire (app et swarm)
+
 ## Terraform et Ansible
 ### Connexion
 1. Récupérer l'**access key** et la **secret key** de votre compte AWS.
