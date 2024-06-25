@@ -11,7 +11,8 @@ pour lancer le script launch.sh il suffit d'effectuer cette commande :
 ```
 
 ce script permet de lancer l'application dans un docker, suivi de docker swarm 
-si necessaire il est possible de lancer que les fichiers exe qui sont dans chaque repertoire (app et swarm)
+
+si necessaire il est possible de lancer que les fichiers exe qui sont dans chaque repertoire ([app](app) et [swarm](swarm))
 
 ## Terraform et Ansible
 ### Connexion
